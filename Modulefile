@@ -9,4 +9,4 @@ description 'This module provides abstraction defines to monitor resources manag
 dependency 'example42/puppi', '>=2.0.0'
 #dependency 'example42/icinga', '>=2.0.00'
 #dependency 'example42/nagios', '>=2.0.0'
-dependency 'example42/nrpe', '>=2.0.0'
+#dependency 'example42/nrpe', '>=2.0.0'
